@@ -1,4 +1,3 @@
-<!-- PHP INCLUDES -->
 
 <?php
     //Set page title
@@ -338,7 +337,5 @@
         </div>
          </div>
     </section>
-
-    <!-- FOOTER BOTTOM  -->
 
     <?php include "Includes/templates/footer.php"; ?>
